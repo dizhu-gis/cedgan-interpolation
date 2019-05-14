@@ -12,7 +12,7 @@ https://doi.org/10.1080/13658816.2019.1599122
 
 Only a small dataset is provided in this Git source, please contact patrick.zhu@pku.edu.cn for further collaboration
 
-#### all the optional parameters:
+#### some optional parameters:
 parser = argparse.ArgumentParser()
 
 parser.add_argument('--batchSize', type=int, default=64, help='input batch size')
