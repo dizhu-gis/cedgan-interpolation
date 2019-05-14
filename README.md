@@ -3,7 +3,7 @@
 https://doi.org/10.1080/13658816.2019.1599122
 
 ## Usage: 
-### train: # uniform sampling 100
+### train: # an example of training based on the 10x10 uniform sampling
 %run ../cdcgan.py --npre 0 --niter 200 --nk 1 --ncp 100  --lr 0.00005 --cuda --dataset DEM  --batchSize 64
 
 ### test: an example of calling the pre-trained model (200 epoches of training) with 10x10 sampled images
