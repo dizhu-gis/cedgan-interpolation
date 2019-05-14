@@ -1,7 +1,7 @@
 # CEDGAN for spatial interpolation
 (Source code for paper) Spatial interpolation using conditional generative adversarial neural networks
 https://doi.org/10.1080/13658816.2019.1599122
-![Alt Text](_gen_gif.gif)
+![Alt Text](_gen_gif_loop.gif)
 
 ## Usage: 
 ### train: an example of training based on the 10x10 uniform sampling
