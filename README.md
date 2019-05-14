@@ -33,12 +33,21 @@ parser.add_argument('--logfile', default='outfile_generate_loss/100samples/errlo
 ## Citation
 Please cite our paper our CEDGAN helps you in your own work:
 
+Zhu, D., Cheng, X., Zhang, F., Yao, X., Gao, Y., & Liu, Y. (2019). Spatial interpolation using conditional generative adversarial neural networks. International Journal of Geographical Information Science, 1-24.
+
 @article{zhu2019spatial,
+
   title={Spatial interpolation using conditional generative adversarial neural networks},
+  
   author={Zhu, Di and Cheng, Ximeng and Zhang, Fan and Yao, Xin and Gao, Yong and Liu, Yu},
+  
   journal={International Journal of Geographical Information Science},
+  
   pages={1--24},
+  
   year={2019},
+  
   publisher={Taylor \& Francis}
+
 }
 
