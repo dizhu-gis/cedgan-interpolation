@@ -1,5 +1,6 @@
-# cedgan-interpolation
-(Source code) A spatial interpolation method: conditional encoder-decoder generative adversarial networks
+# CEDGAN for spatial interpolation
+(Source code for paper) Spatial interpolation using conditional generative adversarial neural networks
+https://doi.org/10.1080/13658816.2019.1599122
 
 ## Usage: 
 ### an example of calling the pre-trained model (200 epoches of training) with 10x10 sampled images
