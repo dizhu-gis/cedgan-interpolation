@@ -38,7 +38,7 @@ parser.add_argument('--netG', default='outfile', help="path to netG (to continue
 parser.add_argument('--logfile', default='outfile_generate_loss/100samples/errlog.txt', help="logfile to record error")
 
 ## Citation
-Please cite our paper our CEDGAN helps you in your own work:
+Please cite our paper if CEDGAN helps you in your own work:
 
 Zhu, D., Cheng, X., Zhang, F., Yao, X., Gao, Y., & Liu, Y. (2019). Spatial interpolation using conditional generative adversarial neural networks. International Journal of Geographical Information Science, 1-24.
 
