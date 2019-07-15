@@ -2,6 +2,7 @@
 (Source code for paper) Spatial interpolation using conditional generative adversarial neural networks
 https://doi.org/10.1080/13658816.2019.1599122
 https://www.researchgate.net/publication/332450640_Spatial_interpolation_using_conditional_generative_adversarial_neural_networks
+
 ![Alt Text](_gen_gif_loop.gif)
 
 ## Usage:
