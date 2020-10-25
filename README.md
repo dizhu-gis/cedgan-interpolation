@@ -12,7 +12,7 @@ https://www.researchgate.net/publication/332450640_Spatial_interpolation_using_c
 ### test: an example of calling the pre-trained model (200 epoches of training) with 10x10 sampled images
 %run generate.py --batchSize 64 --netG outfile_100_samples --dataset DEM --ncp 100 --outf outfile_generate_loss/100samples
 
-Only a small dataset is provided in this Git source, please contact patrick.zhu@pku.edu.cn for further collaboration
+Only a small dataset is provided in this Git source, please contact dizhu@umn.edu or patrick.zhu@pku.edu.cn for further collaboration
 
 #### some optional parameters:
 parser = argparse.ArgumentParser()
