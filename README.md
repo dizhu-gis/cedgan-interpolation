@@ -45,13 +45,22 @@ Please cite our paper if CEDGAN helps you in your own work:
 Zhu D, Cheng X, Zhang F, et al. Spatial interpolation using conditional generative adversarial neural networks[J]. International Journal of Geographical Information Science, 2020, 34(4): 735-758.
 
 @article{zhu2020spatial,
+
   title={Spatial interpolation using conditional generative adversarial neural networks},
+  
   author={Zhu, Di and Cheng, Ximeng and Zhang, Fan and Yao, Xin and Gao, Yong and Liu, Yu},
+  
   journal={International Journal of Geographical Information Science},
+  
   volume={34},
+  
   number={4},
+  
   pages={735--758},
+  
   year={2020},
+  
   publisher={Taylor \& Francis}
+  
 }
 
